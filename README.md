@@ -1,11 +1,11 @@
 # ⚓｜𝐁𝐞𝐭𝐭𝐞𝐫 𝐇𝐏 𝐆𝐔𝐈
-❱ README（わたしを読め）
-https://github.com/nemonowa/Better_HP_GUI/README.md
+## ❱ はじめに【README】
+https://github.com/nemonowa/Better_HP_GUI
 
-❱ Description（説明）
+## ❱ 説明【Description】
 HP可視化。プレイヤー付近でHP変動があったエンティティの名前と体力情報をアクションバーに表示するデータパック。
 
-❱ Information（情報）
+## ❱ 情報【Information】
 ```
 ❱ Datapack: Better_HP_GUI
 ❱ Versiton: ver1.0 for MC1.20.4
@@ -14,7 +14,14 @@ HP可視化。プレイヤー付近でHP変動があったエンティティの�
 ❱ Author: argonaute_nemo
 ```
 
-❱ ChangeLog
+## ❱ 対応窓口【Support】
+サポートは下記Discordサーバーで行います。
+https://discord.gg/ax2HpwXmjx
+
+## ❱ 利用規約【Terms & Conditions】
+https://docs.google.com/document/d/1U3Bq5qwXf6alOduejbvxDDh64Ph9zVrA7f2W5GyEvvc
+
+## ❱ 更新履歴【CHANGELOG】
 ver0.0
 ・HP可視化
 ver1.0
