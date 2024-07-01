@@ -40,3 +40,6 @@ ver1.0.2
 ・アイコン追加
 ・packmcmeta更新
 ・バージョン対応
+<p align="right">
+<img src="https://github.com/nemonowa/Better_HP_GUI/blob/main/icon.png?raw=true" alt="discord.js" /></a>
+</p>
