@@ -3,7 +3,7 @@
 https://github.com/nemonowa/Better_HP_GUI
 
 ## ❱ 説明【Description】
-HP可視化。プレイヤー付近でHP変動があったエンティティの名前と体力情報をアクションバーに表示するデータパック。
+MinecraftでHP可視化するデータパック。プレイヤー付近でHP変動があったエンティティの名前と体力情報をアクションバーに表示する。 
 
 ## ❱ 導入【Introduction】
 Datapackフォルダに配置。必要に応じて/reloadをすることで導入通知が出る。
