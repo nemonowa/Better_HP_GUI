@@ -22,7 +22,7 @@ Datapackフォルダに配置。必要に応じて/reloadをすることで導�
 
 ## ❱ 対応窓口【Support】
 サポートは下記Discordサーバーで行います。
-https://discord.gg/ax2HpwXmjx
+* https://discord.gg/ax2HpwXmjx
 
 ## ❱ 利用規約【Terms & Conditions】
 このサービスへの利⽤は、ユーザーが本利用規約と以下の規約を遵守している間は提供されます。当団体や第三者に不利益をもたらす行為を禁止します。また無許可での再配布や自作発言はお控えください。
