@@ -32,17 +32,17 @@ https://discord.gg/ax2HpwXmjx
 
 ## ❱ 更新履歴【ChangeLog】
 ver0.0
-・HP可視化
+* HP可視化
 ver1.0
-・緩衝体力対応
-・軽量化
-・導入成功表示追加
+* 緩衝体力対応
+* 軽量化
+* 導入成功表示追加
 ver1.0.1
-・バージョン対応
+* バージョン対応
 ver1.0.2
-・アイコン追加
-・packmcmeta更新
-・バージョン対応
+* アイコン追加
+* packmcmeta更新
+* バージョン対応
 <p align="right">
 <img src="https://github.com/nemonowa/Better_HP_GUI/blob/main/icon.png?raw=true" alt="discord.js" /></a>
 </p>
